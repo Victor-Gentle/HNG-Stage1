@@ -1,6 +1,6 @@
 # Linux User Creation Bash Script
 As part of the HNG Internship program, we were tasked with creating a bash script named create_users.sh to automate the creation of new users and groups on a Linux system.
-[Learn more about HNG](## Learn More About HNG Internship)
+[Learn more about HNG](#learn-more-about-hng-internship)
 ## Overview
 This script, create_users.sh, automates the creation of users and their associated groups, sets up their home directories, generates random passwords, and logs all actions. The script reads from a specified text file containing usernames and group names.
 
@@ -84,10 +84,7 @@ This script ensures that users and groups are created as specified, with appropr
 
 ## Learn More About HNG Internship
 The HNG Internship is a remote internship program designed to find and develop the most talented software developers. It offers a stimulating environment for interns to improve their skills and showcase their abilities through real-world tasks.
-- `[Learn more about the HNG Internship program](https://hng.tech/internship)`
-- `[Explore hiring opportunities through HNG](https://hng.tech/hire)`
-- `[Check out HNG Premium services](https://hng.tech/premium)`
-
-
-
+- [Learn more about the HNG Internship program](https://hng.tech/internship)
+- [Explore hiring opportunities through HNG](https://hng.tech/hire)
+- [Check out HNG Premium services](https://hng.tech/premium)
 
