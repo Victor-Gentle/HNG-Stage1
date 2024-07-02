@@ -21,7 +21,7 @@ if [[ ! -f "$USER_FILE" ]]; then
 fi
 
 LOG_FILE="/var/log/user_management.log"
-PASSWORD_FILE="/var/secure/user_passwords.csv"
+PASSWORD_FILE="/var/secure/user_passwords.txt"
 
 # Ensure the log directory exists
 mkdir -p /var/log
