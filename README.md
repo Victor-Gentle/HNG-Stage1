@@ -64,7 +64,7 @@ sudo ./create_users.sh <name-of-text-file>
 ```
 ## Logs and Password Storage
 - Log File: /var/log/user_management.log contains logs of all actions performed.
-- Password File: /var/secure/user_passwords.csv stores the generated passwords securely.
+- Password File: /var/secure/user_passwords.txt stores the generated passwords securely.
 
 ## Example User File
 Create a file named user_list.txt with the following content:
